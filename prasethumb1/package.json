@@ -1,0 +1,21 @@
+{
+  "name": "prasethumb1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jasmine-core": "^3.1.0",
+    "jquery": "^3.3.1",
+    "karma": "^2.0.4",
+    "karma-jasmine": "^1.1.2",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7+deprecated"
+  }
+}
