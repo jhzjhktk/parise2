@@ -12,3 +12,5 @@ Do you want to capture any browsers automatically ?
 PhantomJS
 
 根目录新建index.spec.js
+
+# 开始自动构建
